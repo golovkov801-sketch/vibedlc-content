@@ -1,1 +1,20 @@
-
+{
+  "items": [
+    {
+      "id": "test-sound-1",
+      "type": "sound",
+      "url": "https://raw.githubusercontent.com/golovkov801-sketch/vibedlc-content/main/module_enable.ogg",
+      "title": "Vibedlc",
+      "volume": 0.8,
+      "always": true
+    },
+    {
+      "id": "test-image-1",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/golovkov801-sketch/vibedlc-content/main/circles1.png",
+      "title": "Vibedlc — контент работает",
+      "duration": 6,
+      "always": true
+    }
+  ]
+}
